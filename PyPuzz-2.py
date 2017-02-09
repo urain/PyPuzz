@@ -13,8 +13,8 @@ for i in range(2,len(key)%3*14):
     u.append(i*2+1)
   for j in u:
     a.append(j*i)  
-  print a
+print a
   
-  print "[*] What is this doing?"
-  print "[*] What is in variable A ?"
-  print "[*] Is it possible to restore the data in A ? If so, code a solution."
+print "[*] What is this doing?"
+print "[*] What is in variable A ?"
+print "[*] Is it possible to restore the data in A ? If so, code a solution."
