@@ -31,7 +31,6 @@ for i,k in enumerate(y):
 l=getattr(s,dir(s)[dir(s).index(d(z[2],2))])
 u=l([d(z[1],2),d(z[4],2)])
 print "\nDONE!\n\nThe Result is: " + d(y,2)
-print u
 
 print "[*] What is in Z?"
 print "[*] What significance does the final result have?"
