@@ -1,7 +1,7 @@
 ###################  
 # Python Puzzle 4 #
 ###################
-# HINT: Be sure to use CYGWIN
+# HINT: This file is CONFIRMED working. If it errors, there's a reason.
 
 z=[[109,105,120,104,100,123,113,117,125,127],[114,111],
    [125,116,127,123,125,75,125,101,122,124,127,124],
